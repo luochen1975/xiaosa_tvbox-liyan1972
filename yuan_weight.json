@@ -147,6 +147,12 @@
       "weight": 1.0
     }
   ],
+  "百家": [
+    {
+      "url": "https://cj.jiexi.news",
+      "weight": 1.0
+    }
+  ],
   "立播": [
     {
       "url": "https://libvio.mov",
