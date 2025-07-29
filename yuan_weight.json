@@ -149,9 +149,17 @@
   ],
   "百家": [
     {
+      "url": "http://baijia.filegear-sg.me",
+      "weight": 1.0
+    },
+    {
+      "url": "http://bj.885525.xyz",
+      "weight": 1.0
+    },
+    {
       "url": "https://cj.jiexi.news",
       "weight": 1.0
-    }
+    },
   ],
   "立播": [
     {
