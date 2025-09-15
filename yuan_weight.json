@@ -27,19 +27,15 @@
   ],
   "木偶": [
     {
-      "url": "https://123.666291.xyz",
+      "url": "https://www.muou.site",
+      "weight": 1.0
+    },
+    {
+      "url": "https://www.muou.asia",
       "weight": 1.0
     },
     {
       "url": "https://666.666291.xyz",
-      "weight": 1.0
-    },
-    {
-      "url": "https://123.91muou.icu",
-      "weight": 1.0
-    },
-    {
-      "url": "https://123.muouso.fun",
       "weight": 1.0
     }
   ],
